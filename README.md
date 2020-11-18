@@ -20,7 +20,7 @@ I’m currently working on Experimental Design in Earth Sciences using Machine L
 Always looking to gain deeper knowledge about these fields and find new ideas on how to apply ML to Earth Sciences problems.
 
 #### My publications
-...Still writing...
+https://www.researchgate.net/profile/Robin_Thibaut
 
 
 <!--
