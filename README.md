@@ -19,9 +19,11 @@ I’m currently working on Experimental Design in Earth Sciences using Machine L
 
 Always looking to gain deeper knowledge about these fields and find new ideas on how to apply ML to Earth Sciences problems.
 
-#### My publications
-https://www.researchgate.net/profile/Robin_Thibaut
+#### My research
+[ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
+#### Social
+[LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
 <!--
 **robinthibaut/robinthibaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
