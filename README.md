@@ -1,12 +1,15 @@
-#### About
+## About
 
 PhD student at Ghent University 🇧🇪. 
 
 I’m currently working on Experimental Design in Earth Sciences using Machine Learning under a Bayesian approach.
 
-[Latest paper!](https://doi.org/10.1016/j.jappgeo.2021.104286)
+## Latest paper
 
-#### Ask me about Python techniques for...
+[A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
+https://doi.org/10.1016/j.jappgeo.2021.104286
+
+## Ask me about Python techniques for...
 - Geophysical data processing and visualization, especially if it concerns Electrical Resistivity Tomography 
 - Groundwater Modelling with Flopy
 - Geostatistics
@@ -21,10 +24,10 @@ I’m currently working on Experimental Design in Earth Sciences using Machine L
 
 Always looking to gain deeper knowledge about these fields and find new ideas on how to apply ML to Earth Sciences problems.
 
-#### My research
+## My research
 [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
-#### Social
+## Social
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
 <!--
