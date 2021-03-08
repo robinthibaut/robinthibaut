@@ -30,6 +30,8 @@ Always looking to gain deeper knowledge about these fields and find new ideas on
 ## Social
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
+[Twitter](https://twitter.com/RobinThibaut)
+
 <!--
 **robinthibaut/robinthibaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
