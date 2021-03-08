@@ -32,6 +32,8 @@ Always looking to gain deeper knowledge about these fields and find new ideas on
 
 [Twitter](https://twitter.com/RobinThibaut)
 
+## 
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **robinthibaut/robinthibaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
