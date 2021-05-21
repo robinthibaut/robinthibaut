@@ -4,10 +4,18 @@ PhD student at Ghent University 🇧🇪.
 
 I’m currently working on Experimental Design in Earth Sciences using Machine Learning under a Bayesian approach.
 
-## Latest paper
+## Latest papers
+
+**Preprint**: [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://arxiv.org/abs/2105.05539)
+
+Official repository: [skbel](https://github.com/robinthibaut/skbel)
+
+-----------------------------------------------------------------------------
 
 [A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
 https://doi.org/10.1016/j.jappgeo.2021.104286
+
+Official repository: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
 ## Ask me about Python techniques for...
 - Geophysical data processing and visualization, especially if it concerns Electrical Resistivity Tomography 
