@@ -35,7 +35,7 @@ Always looking to gain deeper knowledge about these fields and find new ideas on
 ## My research
 [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
-## Social
+## Let's connect !
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
 [Twitter](https://twitter.com/RobinThibaut)
