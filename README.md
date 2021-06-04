@@ -5,6 +5,7 @@ PhD student at Ghent University 🇧🇪.
 I’m currently working on Experimental Design in Earth Sciences using Machine Learning under a Bayesian approach.
 
 ## Latest papers
+-----------------------------------------------------------------------------
 
 **Preprint**: [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://arxiv.org/abs/2105.05539)
 
@@ -17,12 +18,14 @@ https://doi.org/10.1016/j.jappgeo.2021.104286
 
 Official repository: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
+-----------------------------------------------------------------------------
+
 ## Ask me about Python techniques for...
 - Geophysical data processing and visualization, especially if it concerns Electrical Resistivity Tomography 
 - Groundwater Modelling with Flopy
 - Geostatistics
 - 3D visualization with VTK
-- Some of the techniques I often use:
+- Some of the techniques I have experience with:
   - Principal Component Analysis
   - Canonical Correlation Analysis
   - Travelling Salesman Problem
@@ -35,7 +38,7 @@ Always looking to gain deeper knowledge about these fields and find new ideas on
 ## My research
 [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
-## Let's connect !
+## Let's connect!
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
 [Twitter](https://twitter.com/RobinThibaut)
