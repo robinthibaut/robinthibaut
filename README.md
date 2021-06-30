@@ -11,8 +11,6 @@ I’m currently working on Experimental Design in Earth Sciences using Machine L
 
 Official repository: [skbel](https://github.com/robinthibaut/skbel)
 
------------------------------------------------------------------------------
-
 [A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
 https://doi.org/10.1016/j.jappgeo.2021.104286
 
