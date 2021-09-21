@@ -6,7 +6,8 @@ I’m currently working on Experimental Design in Earth Sciences using Machine L
 
 ### Latest papers
 
-**Preprint**: [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://arxiv.org/abs/2105.05539)
+[A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
+https://doi.org/10.1016/j.jhydrol.2021.126903
 
 * Official repository: [skbel](https://github.com/robinthibaut/skbel)
 
