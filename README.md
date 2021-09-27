@@ -1,8 +1,8 @@
+Machine Learning | Experimental Design | Earth Sciences
+
 ### About
 
-PhD student at Ghent University 🇧🇪. 
-
-I’m currently working on Experimental Design in Earth Sciences using Machine Learning under a Bayesian approach.
+I am a PhD Fellow at Ghent University, Belgium. My research focuses on developing a new framework for experimental design in earth sciences under a Bayesian approach. I have experience in marine geophysical surveys, near-surface geophysics and coding. My research interests include Bayesian statistics, geostatistics, image processing, data science, and machine learning. I am interested in applying these methods to a variety of problems in environmental sciences and earth sciences.
 
 ### Latest papers
 
@@ -16,23 +16,7 @@ https://doi.org/10.1016/j.jappgeo.2021.104286
 
 * Official repository: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
-
-### Ask me about Python techniques for...
-- Geophysical data processing and visualization, especially if it concerns Electrical Resistivity Tomography 
-- Groundwater Modelling with Flopy
-- Geostatistics
-- 3D visualization with VTK
-- Some of the techniques I have experience with:
-  - Principal Component Analysis
-  - Canonical Correlation Analysis
-  - Travelling Salesman Problem
-  - Signed Distance
-  - Gaussian Process Regression
-  - Sequential Gaussian Simulation
-
-Always looking to gain deeper knowledge about these fields and find new ideas on how to apply ML to Earth Sciences problems.
-
-### My research
+### Research
 [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
 ### Let's connect!
