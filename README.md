@@ -19,6 +19,12 @@ https://doi.org/10.1016/j.jappgeo.2021.104286
 ### Research
 [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
+### Blog posts
+
+[The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
+
+[Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
+
 ### Let's connect!
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
