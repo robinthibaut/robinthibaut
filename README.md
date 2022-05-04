@@ -21,9 +21,13 @@ https://doi.org/10.1016/j.jappgeo.2021.104286
 
 ### Blog posts
 
-[The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
+* [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)
 
-[Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
+* [Principal Component Analysis from the ground up with Python](https://towardsdatascience.com/principal-component-analysis-from-the-ground-up-with-python-754399f88923)
+
+* [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
+
+* [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
 
 ### Let's connect!
 [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
