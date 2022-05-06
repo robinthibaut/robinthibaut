@@ -6,18 +6,15 @@ I am a PhD Fellow at Ghent University, Belgium. My research focuses on developin
 
 ### Latest papers
 
-[A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
+* [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
 https://doi.org/10.1016/j.jhydrol.2021.126903
+Linked repo: [skbel](https://github.com/robinthibaut/skbel)
 
-* Official repository: [skbel](https://github.com/robinthibaut/skbel)
-
-[A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
-https://doi.org/10.1016/j.jappgeo.2021.104286
-
-* Official repository: [MGS-public](https://github.com/robinthibaut/MGS-public)
+* [A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
+https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
 ### Research
-[ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
+* [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
 
 ### Blog posts
 
@@ -30,9 +27,9 @@ https://doi.org/10.1016/j.jappgeo.2021.104286
 * [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
 
 ### Let's connect!
-[LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
+* [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
-[Twitter](https://twitter.com/RobinThibaut)
+* [Twitter](https://twitter.com/RobinThibaut)
 
 ### 
 [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
