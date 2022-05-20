@@ -1,6 +1,6 @@
 [![robin-thibaut StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13371578)](https://stackoverflow.com/users/13371578/robin-thibaut)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](robin.thibaut@ugent.be)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](robin.thibaut@ugent.be)
 
 Machine Learning | Experimental Design | Earth Sciences
 
