@@ -1,3 +1,7 @@
+[![robin-thibaut StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13371578)](https://stackoverflow.com/users/13371578/robin-thibaut)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+
 Machine Learning | Experimental Design | Earth Sciences
 
 ### About
@@ -31,19 +35,9 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 
 * [Twitter](https://twitter.com/RobinThibaut)
 
-### 
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**robinthibaut/robinthibaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robinthibaut)](https://github.com/robinthibaut/github-readme-twitter)
 
-Here are some ideas to get you started:
+<img src="profile-3d-contrib/profile-green-animate.svg">
+<!-- ###  -->
+<!-- [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
