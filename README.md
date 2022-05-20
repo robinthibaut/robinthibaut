@@ -35,9 +35,9 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 
 * [Twitter](https://twitter.com/RobinThibaut)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robinthibaut)](https://github.com/robinthibaut/github-readme-twitter)
+<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robinthibaut)](https://github.com/robinthibaut/github-readme-twitter) -->
 
-<img src="profile-3d-contrib/profile-green-animate.svg">
+<!-- <img src="profile-3d-contrib/profile-green-animate.svg"> -->
 <!-- ###  -->
 <!-- [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
