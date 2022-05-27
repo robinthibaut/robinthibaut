@@ -39,7 +39,7 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 
 <!-- <img src="profile-3d-contrib/profile-green-animate.svg"> -->
 <!-- ###  -->
-<!-- [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Metrics](/github-metrics.svg)
 Example: add rendered image with html for more customization
