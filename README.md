@@ -1,8 +1,10 @@
-[![robin-thibaut StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13371578)](https://stackoverflow.com/users/13371578/robin-thibaut)
+<!-- [![robin-thibaut StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13371578)](https://stackoverflow.com/users/13371578/robin-thibaut) -->
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](robin.thibaut@ugent.be)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](robin.thibaut@ugent.be)
 
 Machine Learning | Experimental Design | Earth Sciences
+
+<a href="https://stackexchange.com/users/18359128"><img src="https://stackexchange.com/users/flair/18359128.png" width="208" height="58" alt="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### About
 
