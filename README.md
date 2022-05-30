@@ -31,6 +31,9 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 * [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
 
 ### Let's connect!
+
+* [Kaggle](https://www.kaggle.com/robustus)
+
 * [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
 
 * [Twitter](https://twitter.com/RobinThibaut)
