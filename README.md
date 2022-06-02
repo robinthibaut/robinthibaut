@@ -4,8 +4,6 @@
 
 Machine Learning | Experimental Design | Earth Sciences
 
-<a href="https://stackexchange.com/users/18359128"><img src="https://stackexchange.com/users/flair/18359128.png" width="208" height="58" alt="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 ### About
 
 I am a PhD Fellow at Ghent University, Belgium. My research focuses on developing a new framework for experimental design in earth sciences under a Bayesian approach. I have experience in marine geophysical surveys, near-surface geophysics and coding. My research interests include Bayesian statistics, geostatistics, image processing, data science, and machine learning. I am interested in applying these methods to a variety of problems in environmental sciences and earth sciences.
@@ -47,6 +45,8 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 <!-- <img src="profile-3d-contrib/profile-green-animate.svg"> -->
 <!-- ###  -->
 [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://stackexchange.com/users/18359128"><img src="https://stackexchange.com/users/flair/18359128.png" width="208" height="58" alt="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <!-- ![Metrics](/github-metrics.svg)
 Example: add rendered image with html for more customization
