@@ -8,6 +8,8 @@ Machine Learning | Experimental Design | Earth Sciences
 
 I am a PhD Fellow at Ghent University, Belgium. My research focuses on developing a new framework for experimental design in earth sciences under a Bayesian approach. I have experience in marine geophysical surveys, near-surface geophysics and coding. My research interests include Bayesian statistics, geostatistics, image processing, data science, and machine learning. I am interested in applying these methods to a variety of problems in environmental sciences and earth sciences.
 
+Contact me if you want to discuss a project or collaborate on one involving the application of Machine Learning in the geosciences.
+
 ### Latest papers
 
 * [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
