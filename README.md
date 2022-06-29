@@ -28,6 +28,10 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 
 * [Wellhead Protection Area (protection zone) prediction using breakthrough curves](https://www.kaggle.com/datasets/robustus/whpa-prediction)
 
+### Templates
+
+* [Python scientific project](https://github.com/robinthibaut/project_template)
+
 ### Blog posts
 
 * [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)
