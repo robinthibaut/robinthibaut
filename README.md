@@ -21,7 +21,7 @@ https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://
 
 ### Research
 * [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
-* [Publons](https://publons.com/researcher/4279492/robin-thibaut/)
+* [Researcher Profile](https://www.webofscience.com/wos/author/record/GQP-0336-2022)
 * [orcid](https://orcid.org/0000-0001-7556-2700)
 
 ### Datasets
