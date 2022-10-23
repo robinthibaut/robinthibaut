@@ -12,6 +12,9 @@ Contact me if you want to discuss a project or collaborate on one involving the 
 
 ### Latest papers
 
+* [Comparing Well and Geophysical Data for Temperature Monitoring within a Bayesian Experimental Design Framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045) 
+https://doi.org/10.1029/2022WR033045
+
 * [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
 https://doi.org/10.1016/j.jhydrol.2021.126903
 Linked repo: [skbel](https://github.com/robinthibaut/skbel)
