@@ -6,7 +6,7 @@ Machine Learning | Experimental Design | Earth Sciences
 
 ### About
 
-I am a Postdoc Researcher passionate about advancing Earth Sciences and exploring AI's transformative potential. As a researcher, I specialize in data science techniques using Python programming to extract valuable insights from geospatial data.
+I am a Computational Geoscientist passionate about advancing Earth Sciences and exploring AI's transformative potential. As a researcher, I specialize in data science techniques using Python programming to extract valuable insights from geospatial data.
 
 Contact me if you want to discuss a project or collaborate on one involving the application of Machine Learning in the geosciences.
 
