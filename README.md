@@ -1,63 +1,70 @@
-<!-- [![robin-thibaut StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13371578)](https://stackoverflow.com/users/13371578/robin-thibaut) -->
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](robin.thibaut@ugent.be)
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](robin.thibaut@ugent.be)
+# Hi there, I'm Robin Thibaut 👋
 
-Machine Learning | Experimental Design | Earth Sciences
+🌎 **Computational Geoscientist**  
+🔍 Passionate about applying **Machine Learning** to **Earth Sciences**  
+📊 Data enthusiast driven by **Python programming** and **AI innovations** in geospatial data
 
-### About
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@ugent.be) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/)  
+*Let’s connect if you’re exploring AI-driven solutions in geoscience or seeking collaboration on innovative projects!*
 
-I am a Computational Geoscientist passionate about advancing Earth Sciences and exploring AI's transformative potential. As a researcher, I specialize in data science techniques using Python programming to extract valuable insights from geospatial data.
+---
 
-Contact me if you want to discuss a project or collaborate on one involving the application of Machine Learning in the geosciences.
+### 🔍 **About Me**
 
-### Latest papers
+I am a Computational Geoscientist exploring the intersection of **Machine Learning** and **Earth Sciences**. With a background in **data science** and **experimental design**, my focus is on extracting actionable insights from complex geospatial data. My work involves developing models that not only enhance our understanding of Earth's processes but also aid in sustainable resource management and environmental protection.
 
-* [Comparing Well and Geophysical Data for Temperature Monitoring within a Bayesian Experimental Design Framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045) 
-https://doi.org/10.1029/2022WR033045
+---
 
-* [A new framework for experimental design using Bayesian Evidential Learning: the case of wellhead protection area](https://www.sciencedirect.com/science/article/pii/S0022169421009537)
-https://doi.org/10.1016/j.jhydrol.2021.126903
-Linked repo: [skbel](https://github.com/robinthibaut/skbel)
+### 📚 **Latest Publications**
 
-* [A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005).
-https://doi.org/10.1016/j.jappgeo.2021.104286 Linked repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
+- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**  
+  Published in Water Resources Research | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
 
-### Research
-* [ResearchGate](https://www.researchgate.net/profile/Robin_Thibaut)
-* [Researcher Profile](https://www.webofscience.com/wos/author/record/GQP-0336-2022)
-* [orcid](https://orcid.org/0000-0001-7556-2700)
+- **[A Framework for Bayesian Experimental Design in Environmental Geosciences](https://www.sciencedirect.com/science/article/pii/S0022169421009537)**  
+  Published in Journal of Hydrology | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
 
-### Datasets
+- **[Minimum Gradient Support Inversion for Resistivity/IP Data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005)**  
+  Published in Journal of Applied Geophysics | [DOI: 10.1016/j.jappgeo.2021.104286](https://doi.org/10.1016/j.jappgeo.2021.104286) | Repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
-* [Wellhead Protection Area (protection zone) prediction using breakthrough curves](https://www.kaggle.com/datasets/robustus/whpa-prediction)
+---
 
-### Templates
+### 🧰 **Open Source Projects & Resources**
 
-* [Python scientific project](https://github.com/robinthibaut/project_template)
+- **Project Templates:** [Python Scientific Project Template](https://github.com/robinthibaut/project_template)  
+- **Geothermal Dataset:** [Wellhead Protection Area Prediction Dataset](https://www.kaggle.com/datasets/robustus/whpa-prediction)
 
-### Blog posts
+---
 
-* [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)
+### 📝 **Featured Blog Posts**
 
-* [Principal Component Analysis from the ground up with Python](https://towardsdatascience.com/principal-component-analysis-from-the-ground-up-with-python-754399f88923)
+- [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)  
+- [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)  
+- [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)  
 
-* [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
+---
 
-* [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
+### 📊 **GitHub Stats**
 
-### Let's connect!
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
 
-* [Kaggle](https://www.kaggle.com/robustus)
+---
 
-* [LinkedIn](https://www.linkedin.com/in/robin-thibaut/)
+### 🤝 **Connect & Collaborate**
 
-* [Twitter](https://twitter.com/RobinThibaut)
+- **ResearchGate**: [Robin Thibaut](https://www.researchgate.net/profile/Robin_Thibaut)  
+- **Stack Overflow**: [Profile](https://stackoverflow.com/users/13371578/robin-thibaut)  
+- **Twitter**: [@RobinThibaut](https://twitter.com/RobinThibaut)  
+- **Researcher Profile**: [Web of Science](https://www.webofscience.com/wos/author/record/GQP-0336-2022) | [ORCID](https://orcid.org/0000-0001-7556-2700)  
 
-<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=robinthibaut)](https://github.com/robinthibaut/github-readme-twitter) -->
+---
 
-<!-- <img src="profile-3d-contrib/profile-green-animate.svg"> -->
-<!-- ###  -->
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+Optional: 3D contributions graph or activity visualization for added interactivity.
+
+<img src="https://profile-counter.glitch.me/robinthibaut/count.svg" />
+-->
+
 
 <a href="https://stackexchange.com/users/18359128"><img src="https://stackexchange.com/users/flair/18359128.png" width="208" height="58" alt="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robin Thibaut on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
